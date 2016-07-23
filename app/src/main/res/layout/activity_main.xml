@@ -12,5 +12,5 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="continute test" />
+        android:text="continute test,continue test step 2" />
 </RelativeLayout>
