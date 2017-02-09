@@ -12,5 +12,5 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="I am merge test and develop,after merge i do something" />
+        android:text="I am merge test and develop,after merge i do somethingkkk" />
 </RelativeLayout>
